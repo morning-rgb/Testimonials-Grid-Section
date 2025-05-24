@@ -1,0 +1,21 @@
+.testimonial {
+    display: flex;
+    flex-direction: column;
+
+    background-color: var(--Grey400);
+
+    padding: 1.9375rem 1.875rem 2rem 1.875rem;
+
+    border-radius: 0.5rem;
+
+    box-shadow: 0.5rem 0.75rem 0.5rem 0.25rem var(--Grey200);
+
+    max-width: 25rem;
+
+    // variables
+    --NameColor: var(--Grey100);
+    --GraduateStatusColor: var(--Grey100);
+    --PhotoBorderColor: var(--White);
+    --TitleColor: var(--White);
+    --ContentColor: var(--White);
+}

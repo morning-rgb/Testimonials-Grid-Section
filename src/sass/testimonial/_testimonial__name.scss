@@ -1,0 +1,9 @@
+.testimonial__name {
+    grid-area: 1 / 2 / 2 / 3;
+
+    font-family: var(--MainFontFamily);
+    font-size: 0.8125rem;
+    font-weight: 500;
+
+    color: var(--NameColor);
+}

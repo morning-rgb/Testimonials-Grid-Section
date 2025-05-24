@@ -1,0 +1,9 @@
+.testimonials__testimonial {
+    margin-bottom: 2rem;
+}
+
+@media screen and (min-width: 72rem) {
+    .testimonials__testimonial {
+        margin-bottom: 0;
+    }
+}

@@ -1,0 +1,8 @@
+@media screen and (min-width: 72rem) {
+    .testimonials__testimonial_sidePanel {
+        grid-column: 2 / 3;
+        grid-row: 1 / 3;
+
+        max-width: 15.9375rem;
+    }
+}

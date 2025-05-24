@@ -1,0 +1,9 @@
+.testimonial__photo {
+    grid-area: 1 / 1 / 3 / 2;
+
+    border-radius: 50%;
+    border: 1px solid var(--PhotoBorderColor);
+
+    width: 2rem;
+    height: 2rem;
+}

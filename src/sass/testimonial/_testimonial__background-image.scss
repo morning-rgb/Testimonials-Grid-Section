@@ -1,0 +1,23 @@
+.testimonial__background-image {
+    display: none;
+}
+
+@media screen and (min-width: 72rem) {
+    .testimonial {
+        position: relative;
+    }
+
+    .testimonial * {
+        z-index: 2;
+    }
+
+    .testimonial__background-image {
+        display: block; 
+
+        position: absolute;
+        right: 3.75rem;
+        top: 0;
+
+        z-index: 1;
+    }
+}
